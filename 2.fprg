@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Kajetan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-30 03:33:27 PM"/>
+        <attribute name="created" value="S2FqZXRhbjtERVNLVE9QLTVHVEJJQlU7MjAyMi0xMC0zMDswMzoyOToyOSBQTTszMDYy"/>
+        <attribute name="edited" value="S2FqZXRhbjtERVNLVE9QLTVHVEJJQlU7MjAyMi0xMC0zMDswMzozMzoyNyBQTTsxOzMxNjM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="liczba" type="Integer" array="False" size=""/>
+            <do expression="0&gt;liczba">
+                <input variable="liczba"/>
+            </do>
+        </body>
+    </function>
+</flowgorithm>
